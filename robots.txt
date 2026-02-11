@@ -1,0 +1,3 @@
+User-agent: *
+Disallow: 
+Sitemap: https://peterrobert1261.github.io/why-bihar-bhumi-is-important-for-landowner-farmer-buyers-in-bihar/sitemap.xml
